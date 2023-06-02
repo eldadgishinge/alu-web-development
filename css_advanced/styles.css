@@ -1,0 +1,198 @@
+#logo1 {
+
+    position: absolute;
+width: 111.83px;
+height: 12.58px;
+left: 226.77px;
+top: 41.54px;
+
+background: #FFFFFF;
+
+}
+
+#logo2 {
+    position: absolute;
+height: 20px;
+left: 32.54%;
+right: 0%;
+top: calc(50% - 20px/2 + 1px);
+
+font-family: 'Coiny';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+}
+
+#upperlinks {
+    position: absolute;
+left: -0.28%;
+right: -0.28%;
+top: -1.04%;
+bottom: 80.52%;
+
+background: radial-gradient(85.9% 85.9% at 50% 14.1%, rgba(41, 48, 61, 0.0001) 0%, #071629 100%), #000000;
+background-blend-mode: normal, color;
+}
+
+
+#login{
+    position: absolute;
+height: 15px;
+left: 85.47%;
+right: 0%;
+top: calc(50% - 15px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+#course{
+
+position: absolute;
+height: 15px;
+left: 0%;
+right: 78.63%;
+top: calc(50% - 15px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+
+#pricing{
+    position: absolute;
+height: 15px;
+left: 43.59%;
+right: 37.18%;
+top: calc(50% - 15px/2);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+
+
+#get {
+    position: absolute;
+height: 151px;
+left: 26.18%;
+right: 26.32%;
+top: calc(50% - 151px/2 - 251px);
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 120px;
+line-height: 151px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+
+
+#pros1 {
+
+
+    height: 150px;
+    width: 150px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+
+}
+
+#pros2 {
+
+
+    height: 150px;
+    width: 150px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+
+
+}
+
+
+#pros3 {
+
+
+height: 149.85000610351562px;
+width: 150px;
+left: 0px;
+top: 0.1500244140625px;
+border-radius: 0px;
+
+
+}
+
+#pros4 {
+
+
+    height: 150px;
+    width: 150px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+
+
+}
+
+#pro {
+    display: flex;
+
+    position: absolute;
+    left: -0.28%;
+    right: -0.28%;
+    top: 50.04%;
+    bottom: 90.52%;
+}
+
+
+
+
+
+#actpic {
+    width: 40%;
+
+}
+
+#act{
+
+
+    position: absolute;
+    left: -0.28%;
+    right: -0.28%;
+    top: 100.04%;
+    bottom: 90.52%;
+    background: #C271FF;
+
+}
+
+
